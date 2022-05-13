@@ -1,1 +1,1 @@
-python3 ArtFileUpload.py hello world
+python3 ArtFileUpload.py dropboxDirectory dropboxToken
